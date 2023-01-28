@@ -8,6 +8,12 @@ body {
     background-color: #d9dcd6;
 }
 
+p {
+    font-size: 16px;
+}
+
+/* Style for header */
+
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -23,6 +29,8 @@ body {
 .header h1 .seo {
     color: #d9dcd6;
 }
+
+/* Style for Nav bar */
 
 .header nav {
     padding-top: 15px;
@@ -46,18 +54,16 @@ a {
     text-decoration: none;
 }
 
-p {
-    font-size: 16px;
-}
+/* Style for Hero image */
 
-.hero {
+figure img {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
-    background-size: cover;
-    background-position: center;
+    object-fit: cover;
 }
+
+/* Style for Main */
 
 .float-left {
     float: left;
@@ -75,6 +81,17 @@ p {
     margin-left: 20px;
 }
 
+/* .testclass {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #0072bb;
+    color: #ffffff;
+} */
+
+/* Style for Aside */
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -86,53 +103,23 @@ p {
     background-color: #2589bd;
 }
 
-.benefit-lead {
+.benefits section {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
-.benefit-brand {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-cost {
-    margin-bottom: 32px;
-    color: #ffffff;
-}
-
-.benefit-lead h3 {
+.benefits section h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-cost h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefit-lead img {
+.benefits section img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
 }
 
-.benefit-brand img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
-.benefit-cost img {
-    display: block;
-    margin: 10px auto;
-    max-width: 150px;
-}
 
 .search-engine-optimization {
     margin-bottom: 20px;
@@ -187,6 +174,8 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
+
+/* Style for Footer */
 
 .footer {
     padding: 30px;
