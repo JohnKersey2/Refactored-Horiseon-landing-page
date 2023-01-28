@@ -1,5 +1,18 @@
 # 01 HTML, CSS, and Git: Code Refactor
 
+
+Semantic HTML
+Logical structure
+Alt Attributes
+Sequential heading
+Concise Title
+
+
+
+
+
+Without changing funcitonality, I was to help optimize accessability and SEO. My tasks included creating a concise title, give the code semantic HTML elements, and refactor the code into a more logical struture. 
+
 ## Challenges in This Course
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
@@ -53,6 +66,12 @@ SO THAT our own site is optimized for search engines
 ```
 
 ## Acceptance Criteria
+
+Semantic HTML
+Logical structure
+Alt Attributes
+Sequential heading
+Concise Title
 
 ```
 GIVEN a webpage meets accessibility standards
