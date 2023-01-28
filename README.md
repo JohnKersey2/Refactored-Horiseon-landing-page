@@ -4,7 +4,7 @@
 
 A hypothetical client hired me to refactor their webpages html/css to improve future readability, improve accessability, and increase SEO. 
 
-### Without changing functionality, I was to:
+## Without changing functionality, I was to:
 
 -Refactor code to use semantic HTML elements.
 
@@ -16,12 +16,11 @@ A hypothetical client hired me to refactor their webpages html/css to improve fu
 
 -Add alt text to icons and images.
 
+## Link to Deployed Webpage
 
-### Link to Deployed Webpage
+[Link to John Kersey's Refactored Horiseon Landing Page](https://johnkersey2.github.io/Refactored-Horiseon-landing-page/)
 
-TBA when webpage is deployed. 
-
-### Solved Issues 
+## Solved Issues 
 
 -Code has been refactored to distinct header, main, aside, and footer sections. 
 
@@ -37,11 +36,10 @@ TBA when webpage is deployed.
 
 -Found broken "Search Engine Optimization" link. Fixed. 
 
-
-### Unsolved Issues / Newly Found Bugs
+## Unsolved Issues / Newly Found Bugs
 Several color shades did not match. Unsure if intended style or not, but did not touch. Created labeled variables and changed hardcoded colors to assist style team to quickly fix if error or help future devs should branding should change. 
 
 Some styling elements are not optimized for mobile compatable and break at tablet and smaller sized viewports. Untouched.
 
-### Contributors 
+## Contributors 
 John Kersey - Jan 2023
