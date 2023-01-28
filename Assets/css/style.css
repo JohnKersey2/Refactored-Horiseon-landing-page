@@ -5,6 +5,7 @@
    --seoHighlight: #d9dcd6;
    --backgroundColor: #d9dcd6;
    --textColor: #ffffff;
+   --footerTextColor: black; 
 }
 
 * {
@@ -142,8 +143,14 @@ footer {
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
+    color: default;
+}
+
+footer > * {
+    color: var(--footerTextColor)
 }
 
 footer h4 {
     font-size: 20px;
 }
+
