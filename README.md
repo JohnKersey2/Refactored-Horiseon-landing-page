@@ -39,9 +39,9 @@ TBA when webpage is deployed.
 
 
 ### Unsolved Issues / Newly Found Bugs
-Several color shades did not match. Unsure if intended style or not, but did not touch. 
+Several color shades did not match. Unsure if intended style or not, but did not touch. Created labeled variables and changed hardcoded colors to assist style team to quickly fix if error or help future devs should branding should change. 
 
-Some styling elements break at tablet and smaller sized viewports. Untouched
+Some styling elements are not optimized for mobile compatable and break at tablet and smaller sized viewports. Untouched.
 
 ### Contributors 
 John Kersey - Jan 2023

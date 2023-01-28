@@ -1,3 +1,12 @@
+:root {
+   --headerBlue:#2a607c;
+   --servicesBlue: #0072bb;
+   --benefitsBlue: #2589bd;
+   --seoHighlight: #d9dcd6;
+   --backgroundColor: #d9dcd6;
+   --textColor: #ffffff;
+}
+
 * {
     box-sizing: border-box;
     padding: 0;
@@ -5,7 +14,8 @@
 }
 
 body {
-    background-color: #d9dcd6;
+    color: var(--textColor) ;
+    background-color: var(--backgroundColor);
 }
 
 p {
@@ -18,7 +28,6 @@ header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
-    color: #ffffff;
 }
 
 header h1 {
@@ -27,7 +36,7 @@ header h1 {
 }
 
 header h1 .seo {
-    color: #d9dcd6;
+    color: var(--seoHighlight);
 }
 
 /* Style for Nav bar */
@@ -50,7 +59,6 @@ header nav ul li {
 }
 
 a {
-    color: #ffffff;
     text-decoration: none;
 }
 
@@ -76,8 +84,7 @@ figure img {
     padding: 50px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
+    background-color: var(--servicesBlue);
 }
 
 .services section img {
@@ -109,12 +116,11 @@ figure img {
     width: 20%;
     height: 100%;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
+    background-color: var(--benefitsBlue);
 }
 
 .benefits section {
     margin-bottom: 32px;
-    color: #ffffff;
 }
 
 .benefits section h3 {
