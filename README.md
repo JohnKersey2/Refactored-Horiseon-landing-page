@@ -46,4 +46,4 @@ John Kersey - Jan 2023
 
 ## Screenshot of Deployed Application 
 
-![Screenshot of Horiseon's Webpage with original, untouched styling](./Assets/images/horiseonRefactorScreenshot.PNG)
+![Screenshot of Horiseon's Webpage with original, untouched styling](/assets/images/horiseonRefactorScreenshot.PNG)
