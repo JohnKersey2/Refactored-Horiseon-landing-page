@@ -43,3 +43,7 @@ Some styling elements are not optimized for mobile compatable and break at table
 
 ## Contributors 
 John Kersey - Jan 2023
+
+## Screenshot of Deployed Application 
+
+![Screenshot of Horiseon's Webpage with original, untouched styling](./Assets/images/horiseonRefactorScreenshot.PNG)
