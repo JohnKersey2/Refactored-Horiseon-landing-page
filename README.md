@@ -2,7 +2,7 @@
 
 ## Task
 
-A hypothetical client hired me to refactor their webpages html/css to improve future readability, improve accessability, and increase SEO. 
+In my very first coding homework, a hypothetical client hired me to refactor their webpages html/css to improve future readability, improve accessability, and increase SEO. 
 
 ## Without changing functionality, I was to:
 
